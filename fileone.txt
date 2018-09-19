@@ -2,7 +2,7 @@ hello
 hi
 welcome
 good
-conflict
+
 if(flag){
 statements;
 }
