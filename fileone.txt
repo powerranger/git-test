@@ -2,3 +2,6 @@ hello
 hi
 welcome
 good
+if(flag){
+statements;
+}
