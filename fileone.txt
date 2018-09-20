@@ -14,6 +14,7 @@ changes in master branch
 line1
 line2
 
+master 1
 change 1 after branching
 change 2
 
