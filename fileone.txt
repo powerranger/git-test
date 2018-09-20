@@ -11,7 +11,7 @@ statements;
 some more changes
 
 changes in master branch
-
+line1
 
 change 1 after branching
 change 2
