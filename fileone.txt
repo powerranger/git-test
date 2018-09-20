@@ -12,6 +12,7 @@ some more changes
 
 changes in master branch
 line1
+line2
 
 change 1 after branching
 change 2
